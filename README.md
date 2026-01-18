@@ -37,11 +37,9 @@ The game challenges players to match pairs of cards while tracking **time** and 
 ---
 
 ## 📸 Screenshots
-
-_Add screenshots here (optional but recommended):_
-
 ```html
-<img src="Images/snapshot1.PNG" width="100%" />
-<img src="Images/snapshot2.PNG" width="100%" />
-<img src="Images/snapshot3.PNG" width="100%" />
-<img src="Images/snapshot4.PNG" width="100%" />
+<img src="Memory Game/Images/fevicon.PNG" width="100%" />
+<img src="Memory Game/Images/snapshot1.PNG" width="100%" />
+<img src="Memory Game/Images/snapshot2.PNG" width="100%" />
+<img src="Memory Game/Images/snapshot3.PNG" width="100%" />
+<img src="Memory Game/Images/snapshot4.PNG" width="100%" />
