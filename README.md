@@ -37,7 +37,6 @@ The game challenges players to match pairs of cards while tracking **time** and 
 ---
 
 ## 📸 Screenshots
-```html
 <img src="Memory Game/Images/fevicon.PNG" width="100%" />
 <img src="Memory Game/Images/snapshot1.PNG" width="100%" />
 <img src="Memory Game/Images/snapshot2.PNG" width="100%" />
